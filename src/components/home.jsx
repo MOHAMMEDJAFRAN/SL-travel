@@ -8,7 +8,7 @@ import RecommendedPlaces from "./recoment";
 
 // Destination Data
 const destinations = [
-  { name: "Colombo", image: "/images/beach-colombo-sri-lanka.jpg", path: "/colombo" },
+  { name: "Colombo", image: "public/images/beach-colombo-sri-lanka.jpg", path: "/colombo" },
   { name: "Kandy", image: "/images/kandy.jpg", path: "/kandy" },
   { name: "Nuwara Eliya", image: "/images/plantation-nuwara-eliya.jpg", path: "/nuwaraliya" },
   { name: "Galle", image: "/images/galle.jpg", path: "/galle" },
