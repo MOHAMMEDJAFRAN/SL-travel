@@ -9,13 +9,13 @@ import RecommendedPlaces from "./recoment";
 // Destination Data
 const destinations = [
   { name: "Colombo", image: "public/images/beach-colombo-sri-lanka.jpg", path: "/colombo" },
-  { name: "Kandy", image: "/images/kandy.jpg", path: "/kandy" },
-  { name: "Nuwara Eliya", image: "/images/plantation-nuwara-eliya.jpg", path: "/nuwaraliya" },
-  { name: "Galle", image: "/images/galle.jpg", path: "/galle" },
-  { name: "Sigiriya", image: "/images/sigiriya2.jpg", path: "/sigiriya" },
-  { name: "Yala National Park", image: "/images/yala.jpg", path: "/yala" },
-  { name: "Mirissa", image: "/images/mirissa.jpg", path: "/mirissa" },
-  { name: "Anuradhapura", image: "/images/anuradhapura.jpeg", path: "/anuradhapura" },
+  { name: "Kandy", image: "public/images/kandy.jpg", path: "/kandy" },
+  { name: "Nuwara Eliya", image: "public/images/plantation-nuwara-eliya.jpg", path: "/nuwaraliya" },
+  { name: "Galle", image: "public/images/galle.jpg", path: "/galle" },
+  { name: "Sigiriya", image: "public/images/sigiriya2.jpg", path: "/sigiriya" },
+  { name: "Yala National Park", image: "public/images/yala.jpg", path: "/yala" },
+  { name: "Mirissa", image: "public/images/mirissa.jpg", path: "/mirissa" },
+  { name: "Anuradhapura", image: "public/images/anuradhapura.jpeg", path: "/anuradhapura" },
 
 ];
 
